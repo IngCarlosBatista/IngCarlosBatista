@@ -24,6 +24,6 @@ Actualmente trabajo en el desarrollo de sistemas robustos enfocados en la eficie
 Estoy siempre abierto a oportunidades profesionales y al intercambio de conocimientos técnicos.
 
 * **LinkedIn:** [Tu enlace a LinkedIn aquí]
-* **Correo:** [Tu correo electrónico aquí]
+* **Correo:** [ingcarlosbatista@gmail.com]
 
 *¡Gracias por visitar mi perfil!*
