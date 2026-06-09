@@ -2,28 +2,31 @@
 
 Bienvenido a mi perfil de GitHub. Soy un apasionado del desarrollo de software, especializado en crear soluciones tecnológicas modernas, escalables y eficientes.
 
-### 🚀 Sobre mí
-Como Ingeniero, me enfoco en el desarrollo de sistemas de gestión y soluciones SaaS, utilizando principalmente **Python** para transformar ideas complejas en herramientas funcionales.
+## 🚀 Sobre mí
+
+Como Ingeniero, me enfoco en el desarrollo de sistemas de gestión y soluciones SaaS, utilizando principalmente **Python** y **C#** para transformar ideas complejas en herramientas funcionales.
 
 * **Enfoque:** Arquitectura de software, automatización y optimización de procesos.
-* **Tecnologías:** Python, SQL, y desarrollo de sistemas empresariales.
+* **Tecnologías:** Python, C#, SQL, y desarrollo de sistemas empresariales.
 
----
+## 🛠️ Mis Proyectos Destacados
 
-### 🛠️ Mis Proyectos
-Actualmente trabajo en el desarrollo de sistemas robustos enfocados en la eficiencia operativa:
+He desarrollado una suite de sistemas robustos enfocados en la eficiencia operativa:
 
-* **Sistema Hospitalario SaaS:** Una solución integral para la gestión administrativa y médica.
-* **Sistema de Inventario Moderno:** Herramienta diseñada para el control preciso de activos y flujos de productos.
+* **Sistema Hospitalario SaaS:** Solución integral para la gestión administrativa y médica.
+* **Sistema de Inventario Moderno:** Herramienta para el control preciso de activos y flujos de productos.
+* **Sistema de Ventas:** Gestión comercial y facturación optimizada.
+* **Sistema de Alquiler:** Administración de activos y contratos de arrendamiento.
+* **Sistema de Colegio:** Gestión académica y control estudiantil.
+* **Sistema de Prestamos:** Gestión de créditos y estados de cuenta.
 
-*(Nota: Estos proyectos se encuentran en repositorios privados. Si deseas conocer más sobre mis capacidades técnicas o colaborar en alguna iniciativa, no dudes en contactarme).*
+*(Nota: Estos proyectos se encuentran en repositorios privados por confidencialidad. Si deseas conocer más sobre mis capacidades técnicas, ver demostraciones o colaborar en alguna iniciativa, no dudes en contactarme).*
 
----
+## 📫 ¿Cómo conectar conmigo?
 
-### 📫 ¿Cómo conectar conmigo?
 Estoy siempre abierto a oportunidades profesionales y al intercambio de conocimientos técnicos.
 
-* **LinkedIn:** [Tu enlace a LinkedIn aquí]
-* **Correo:** [ingcarlosbatista@gmail.com]
+* **LinkedIn:** [Añade aquí tu enlace a LinkedIn]
+* **Correo:** [ingcarlosbatista@gmail.com](mailto:ingcarlosbatista@gmail.com)
 
-*¡Gracias por visitar mi perfil!*
+¡Gracias por visitar mi perfil!
